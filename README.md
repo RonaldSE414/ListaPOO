@@ -18,7 +18,7 @@ Os exercícios abordam conceitos fundamentais como:
 
 Cada questão foi implementada em um arquivo separado, utilizando o nome da classe pública como nome do arquivo.
 
-⸻
+***
 
 Identificação das Questões
 	
