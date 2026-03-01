@@ -1,8 +1,6 @@
 # ListaPOO
 
-*** 
-
-## Lista de Exercícios – Programação Orientada a Objetos (Java)
+## 📒Lista de Exercícios – Programação Orientada a Objetos (Java)
 
 Este repositório contém a resolução de 10 questões práticas da disciplina de Programação Orientada a Objetos.
 
@@ -22,7 +20,7 @@ Cada questão foi implementada em um arquivo separado, utilizando o nome da clas
 
 ***
 
-## Identificação das Questões
+## 🟰Identificação das Questões
 	
 •	Questão 1 → Video.java
 	
